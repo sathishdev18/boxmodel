@@ -1,0 +1,150 @@
+div {
+    background-color: brown;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 20px;
+    padding-left: 450px;
+    padding-bottom: 20px;
+    border-radius: 1%;
+    border: 20px solid brown;
+    border-bottom: yellow;
+}
+
+body {
+    background-color: aqua;
+}
+
+.v {
+    background-color: darkblue;
+    border: 1px solid darkblue;
+    border-radius: 10px;
+    margin-right: 1000px;
+    margin-left: 10%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 20px 80px;
+    height: 10px;
+    width: 1px;
+
+}
+
+.a {
+    background-color: red;
+    border-radius: 10px;
+    margin-right: 50%;
+    margin-left: 30%;
+    margin-bottom: 50px;
+    border: 1px solid red;
+    padding: 20px 80px;
+    height: 10px;
+    width: 1px;
+}
+
+.g {
+    background-color: green;
+    border: 1px solid green;
+    border-radius: 10px;
+    margin-left: 50%;
+    margin-right: 30%;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 20px 80px;
+
+}
+
+.m {
+    background-color: crimson;
+    border-radius: 10px;
+    border: 1px solid crimson;
+    margin-left: 70%;
+    margin-right: 50%;
+    margin-bottom: 50px;
+    padding: 20px 80px;
+}
+
+.A {
+    border: 5px solid brown;
+    border-radius: 5000%;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 100px 100px;
+    background-color: brown;
+    height: 400px;
+    width: 400px;
+}
+
+.B {
+
+    border: 5px solid yellow;
+    border-radius: 5000%;
+    background-color: yellow;
+    height: 350;
+    width: 350;
+    padding: 80px 80px;
+}
+
+.C {
+    border: 5px solid green;
+    border-radius: 5000%;
+    background-color: green;
+    height: 300;
+    width: 300;
+    padding: 70px 70px;
+}
+
+.D {
+    border: 5px solid white;
+    border-radius: 5000%;
+    background-color: white;
+    height: 250;
+    width: 250;
+    padding: 50px 50px;
+}
+
+.E {
+    border: 5px solid black;
+    border-radius: 5000%;
+    background-color: black;
+    height: 200;
+    width: 200;
+    padding: 20PX 20PX;
+}
+
+.T {
+    border: 5px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100px;
+    width: 10px;
+    background-color: black;
+}
+
+.R {
+    border-radius: 5000%;
+    border: 8px solid red;
+    margin-top: 10px;
+
+}
+
+.Y {
+    border-radius: 5000%;
+    border: 8px solid yellow;
+    margin-top: 20px;
+}
+
+.G {
+    border-radius: 5000%;
+    border: 8px solid green;
+    margin-top: 20px;
+}
+
+.Z {
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 150px;
+    width: 20px;
+    background-color: black;
+}
